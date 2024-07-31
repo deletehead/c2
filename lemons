@@ -1,1 +1,1 @@
-cmd whoami.exe
+pwsh Get-Process
