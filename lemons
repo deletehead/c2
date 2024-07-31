@@ -1,1 +1,1 @@
-powershell.exe get-process -includeusername
+ping
