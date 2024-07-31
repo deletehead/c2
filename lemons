@@ -1,1 +1,1 @@
-pwsh Get-Process
+pwsh Get-Process | select -first 10
